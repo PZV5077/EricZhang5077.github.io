@@ -1,13 +1,14 @@
-# EricZhang5077.github.io
-##Credits:
+# www.zcstudio.online
+Website for ZCSTUDIO
+## Credits:
 
-###Demo Images:
+### Demo Images:
 		Unsplash (unsplash.com)
 
-###Icons:
+### Icons:
 		Font Awesome (fontawesome.io)
 
-###Other:
+### Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
